@@ -232,6 +232,11 @@
     justify-content: space-between;
     cursor: pointer;
 }
+.que-about:hover{
+    background-color: rgb(78, 77, 77);
+    color: red;
+    transition: 0.3s ease;
+}
 .about-ans{
     background: #303030;
     max-height: 0;
@@ -274,7 +279,7 @@
     margin-left: 5px;
     border: none;
     border-radius: 5px;
-    background-color: rgb(204, 19, 19);
+    background-color: red;
     color: white;
 
 }
